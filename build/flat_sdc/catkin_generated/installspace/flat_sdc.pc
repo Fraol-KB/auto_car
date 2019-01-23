@@ -1,0 +1,8 @@
+prefix=/media/fra/backup/aait/5th year semester I/Robotics/project/autonomous/install
+
+Name: flat_sdc
+Description: Description of flat_sdc
+Version: 0.0.0
+Cflags: 
+Libs: -L/media/fra/backup/aait/5th year semester I/Robotics/project/autonomous/install/lib 
+Requires: 

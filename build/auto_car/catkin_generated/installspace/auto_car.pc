@@ -1,0 +1,8 @@
+prefix=/media/fra/backup/aait/5th year semester I/Robotics/project/autonomous/install
+
+Name: auto_car
+Description: Description of auto_car
+Version: 0.0.0
+Cflags: 
+Libs: -L/media/fra/backup/aait/5th year semester I/Robotics/project/autonomous/install/lib 
+Requires: 
